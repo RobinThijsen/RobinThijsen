@@ -1,8 +1,10 @@
 ## 🛹 Robin Thijsen
 
-I'm a **newcomer web developer**, who discovered development at school and totally **fall in love with it**!
-Actually, learning at **BeCode in Belgium**, I'm trying to make my way through the **web development's universe** (WDU) 😁.
-You can check my projects **[here](http://robin.thijsen.net/)** or just check my others social's network.
+<p style="line-height: 1.5em; font-size:1.2rem; letter-spacing: 1px;">
+I'm a <strong>newcomer web developer</strong>, who discovered development at school and totally <strong>fall in love with it</strong>!<br/>
+Actually, learning at <strong>BeCode in Belgium</strong>, I'm trying to make my way through the <strong>web development's universe</strong> (WDU) 😁.<br/>
+You can check my projects <strong><a style="color:#328CDC;" href="http://robin.thijsen.net/">here</a></strong> or just check my others social's network.
+</p>
 
 ***
 
