@@ -12,8 +12,7 @@ You can check my projects <strong><a style="color:#328CDC;" href="http://robin.t
 [<img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/robin-thijsen-61004a252/)
 [<img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/RobinThijsen)
 
-***
-
+#
 ### 🧰 Languages and Tools
 
 <img align="left" alt="html5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -27,8 +26,7 @@ You can check my projects <strong><a style="color:#328CDC;" href="http://robin.t
 <img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <br />
 
-***
-
+#
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinThijsen&show_icons=ture&theme=prussian)
 
 ***
