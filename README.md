@@ -29,8 +29,12 @@ You can check my projects <strong><a style="color:#328CDC;" href="http://robin.t
 
 ***
 
+![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinThijsen&show_icons=ture&theme=prussian)
+
+***
+
 ### What's this?
-```javascript
+```js
 let human = new Human("Robin", "Thijsen", 22, true, "frontend")
 human.isHungry()
 // => yes, he is! Here is a bit of crisps
