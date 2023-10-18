@@ -30,7 +30,7 @@ You can check my projects <strong><a style="color:#328CDC;" href="http://robin.t
 #
 <div align="center">
   <p><img alt="Robin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RobinThijsen&show_icons=ture&theme=prussian" /></p>
-  <p><img alt="Robin's GitHub stats" src="[https://github-readme-stats.vercel.app/api?username=RobinThijsen&show_icons=ture&theme=prussian](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinThijsen&&hide=TSQL&layout=compact&langs_count=10&theme=prussian)" /></p>
+  <p><img alt="Robin's GitHub lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinThijsen&&hide=TSQL&layout=compact&langs_count=10&theme=prussian" /></p>
 </div>
 
 ***
