@@ -29,7 +29,8 @@ You can check my projects <strong><a style="color:#328CDC;" href="http://robin.t
 
 #
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinThijsen&show_icons=ture&theme=prussian)
-<p align='center'><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=RobinThijsen&&hide=TSQL&layout=compact&langs_count=10'/></p>
+![Robin's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinThijsen&&hide=TSQL&layout=compact&langs_count=10)
+
 ***
 
 ### What's this?
