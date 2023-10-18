@@ -28,8 +28,10 @@ You can check my projects <strong><a style="color:#328CDC;" href="http://robin.t
 <br />
 
 #
+<div align="center">
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinThijsen&show_icons=ture&theme=prussian)
 ![Robin's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinThijsen&&hide=TSQL&layout=compact&langs_count=10&theme=prussian)
+</div>
 
 ***
 
