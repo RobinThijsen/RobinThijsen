@@ -38,11 +38,11 @@ You can check my projects <strong><a style="color:#328CDC;" href="https://robin.
 
 ### What's this?
 ```js
-let human = new Human("Robin", "Thijsen", 22, true, "frontend")
+let human = new Human("Robin", "Thijsen", 22, true, "Backend")
 human.isHungry()
 // => yes, he is! Here is a bit of crisps
 human.getFirstName()
 // => Hi! I'm Robin
 human.whatBestEnd()
-// => frontend for sure!
+// => Laravel for sure!
 ```
